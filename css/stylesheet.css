@@ -34,7 +34,7 @@ body {
     transform: translate(0%, -50%);
     border-radius: 10px;
     border: 2px solid gray;
-}
+} */
 
 /*////////////////////////////////////////////*/
 .head-nav {
@@ -76,10 +76,10 @@ a {
 .head-div2 ul li:hover {
     border: 2px solid rgb(255, 255, 255);
     border-radius: 5px;
-}
+} 
 
 /*////////////////////////////////////////////*/
-.head-div3 {
+ .head-div3 {
     width: 20%;
     height: 115px;
     position: absolute;
@@ -111,9 +111,9 @@ a {
     padding: 10px;
 }
 
-/*///////////////////////////////////////////////////////////////////////*/
+
 .section1-contianer {
-    /* width:80%; */
+
     width: 95%;
     margin: 30px auto;
     height: 600px;
@@ -127,7 +127,7 @@ a {
     border-radius: 10px;
 }
 
-/*/////////////////////////////////////////////////////////////*/
+
 .special-container1 {
     width: 95%;
     margin: auto;
@@ -161,9 +161,8 @@ a {
 .line:hover {
     width: 140px;
     transition: 1s;
-}
+} 
 
-/*/////////////////////////////////////////////////////////*/
 .special-container1-div2 {
     width: 100%;
     min-height: 480px;
